@@ -1,0 +1,46 @@
+/* Quiz230214 - 1. 로그인 페이지에 css 적용하기 ==> 부트스트랩 사용  */
+body {
+	font-family: 'IBM Plex Sans KR', sans-serif;
+}
+body > div {
+	max-width: 650px!important;
+	margin: 0px auto;
+}
+form {
+	text-align: center;
+	margin-top: 20px;
+}
+form > div div {
+	display: inline-block;
+	font-size: 18px;
+}
+.bg-secondary {
+	text-align: center;
+	color: white;
+	position: relative;
+	top: 5px;
+}
+h2 {
+	position: relative;
+	top: 3px;
+}
+label {
+	text-align: right;
+	font-weight: bold;
+	color: gray;
+	position: relative;
+	bottom: 2px;
+}
+[type="submit"] {
+	position: relative;
+	left: 6px;
+	bottom: 28px;
+	padding: 24px 16px;
+}
+#area {
+	position: relative;
+	right: 20px;
+}
+#result {
+	text-align: center;
+}
