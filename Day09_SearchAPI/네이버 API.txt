@@ -1,0 +1,3 @@
+네이버 검색 API (학습용)
+client Id : G47tqyxmwdRrma9pGeJL
+client secret : ofLN7yi1dQ
